@@ -6,4 +6,5 @@ Objetivo: Trabalhar com tipos de variáveis e realizar cálculos matemáticos pa
 Enunciado:
 Crie um programa que leia uma temperatura em Celsius, converta para Fahrenheit e exiba o resultado. A fórmula de conversão é: Fahrenheit = (Celsius * 9/5) + 32.
 
-===================================================================================================
+
+________________________________________________________________________________________________
