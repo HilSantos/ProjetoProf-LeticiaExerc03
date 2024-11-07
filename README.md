@@ -1,4 +1,4 @@
-# ProjetoProfªLeticiaExerc03
+# Projeto Converter Temperatura
 
 Exercício 3: Converter Temperatura de Celsius para Fahrenheit
 Objetivo: Trabalhar com tipos de variáveis e realizar cálculos matemáticos para conversão de unidades.
